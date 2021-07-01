@@ -19,7 +19,7 @@
 
 ## 히스토리 🐾
 
-<details open>
+<details >
 <summary>2021년 6월</summary>
 
 | 날짜 |          문제 이름          |          링크          |    유형    | 난이도  |
@@ -27,5 +27,14 @@
 | 6/29 | [카카오 인턴] 키패드 누르기 | https://bit.ly/3w0ELB7 |    구현    | Level 1 |
 | 6/29 |     약수의 개수와 덧셈      | https://bit.ly/2UPtcjr | 구현, 수학 | Level 1 |
 | 6/30 |          k번째 수           | https://bit.ly/2UhAIU4 |    구현    | Level 1 |
+
+</details>
+
+<details open>
+<summary>2021년 7월</summary>
+
+| 날짜 |    문제 이름    |          링크          | 유형 | 난이도  |
+| :--: | :-------------: | :--------------------: | :--: | :-----: |
+| 7/1  | 직사각형 별찍기 | https://bit.ly/3waN9Os | 구현 | Level 1 |
 
 </details>
