@@ -40,5 +40,6 @@
 | 7/13 |     음양 더하기      | https://bit.ly/3B7W1IH |    구현    | Level 1 |
 | 7/14 |       모의고사       | https://bit.ly/3ki4D9j |  완전탐색  | Level 1 |
 | 7/15 | 크레인 인형뽑기 게임 | https://bit.ly/2VKVZpR | 스택, 구현 | Level 1 |
+| 7/16 |        체육복        | https://bit.ly/3xN3v1o |   그리디   | Level 1 |
 
 </details>
