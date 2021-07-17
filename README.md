@@ -34,23 +34,37 @@
 <details open>
 <summary>2021년 7월</summary>
 
-| 날짜 |          문제 이름           |          링크          |      유형      | 난이도  |
-| :--: | :--------------------------: | :--------------------: | :------------: | :-----: |
-| 7/1  |       직사각형 별찍기        | https://bit.ly/3waN9Os |      구현      | Level 1 |
-| 7/13 |         음양 더하기          | https://bit.ly/3B7W1IH |      구현      | Level 1 |
-| 7/14 |           모의고사           | https://bit.ly/3ki4D9j |    완전탐색    | Level 1 |
-| 7/15 |     크레인 인형뽑기 게임     | https://bit.ly/2VKVZpR |   스택, 구현   | Level 1 |
-| 7/16 |            체육복            | https://bit.ly/3xN3v1o |     그리디     | Level 1 |
-| 7/17 |             내적             | https://bit.ly/3kx32N5 |      구현      | Level 1 |
-| 7/17 |          소수만들기          | https://bit.ly/3xLMh4J |    완전탐색    | Level 1 |
-| 7/17 |     순자 문자열과 영단어     | https://bit.ly/3kup3My |     문자열     | Level 1 |
-| 7/17 |       신규 아이디 추천       | https://bit.ly/3z92H7g |  문자열, 구현  | Level 1 |
-| 7/17 | 로또의 최고 순위와 최저 순위 | https://bit.ly/3xN3v1o |      구현      | Level 1 |
-| 7/17 |         3진법 뒤집기         | https://bit.ly/3krUrv6 |      구현      | Level 1 |
-| 7/17 |             예산             | https://bit.ly/3Bh3aqa |     그리디     | Level 1 |
-| 7/17 |     두 개 뽑아서 더하기      | https://bit.ly/3ktt6c4 | 완전탐색, 해시 | Level 1 |
-| 7/17 |     가운데 글자 가져오기     | https://bit.ly/3wMOmvC |     문자열     | Level 1 |
-| 7/17 |            실패율            | https://bit.ly/3B5WJG6 |      구현      | Level 1 |
-| 7/17 |    수박수박수박수박수박수    | https://bit.ly/3xHvHTr |      구현      | Level 1 |
+| 날짜 |          문제 이름           |          링크          |       유형       | 난이도  |
+| :--: | :--------------------------: | :--------------------: | :--------------: | :-----: |
+| 7/1  |       직사각형 별찍기        | https://bit.ly/3waN9Os |       구현       | Level 1 |
+| 7/13 |         음양 더하기          | https://bit.ly/3B7W1IH |       구현       | Level 1 |
+| 7/14 |           모의고사           | https://bit.ly/3ki4D9j |     완전탐색     | Level 1 |
+| 7/15 |     크레인 인형뽑기 게임     | https://bit.ly/2VKVZpR |    스택, 구현    | Level 1 |
+| 7/16 |            체육복            | https://bit.ly/3xN3v1o |      그리디      | Level 1 |
+| 7/17 |             내적             | https://bit.ly/3kx32N5 |       구현       | Level 1 |
+| 7/17 |          소수만들기          | https://bit.ly/3xLMh4J |     완전탐색     | Level 1 |
+| 7/17 |     순자 문자열과 영단어     | https://bit.ly/3kup3My |      문자열      | Level 1 |
+| 7/17 |       신규 아이디 추천       | https://bit.ly/3z92H7g |   문자열, 구현   | Level 1 |
+| 7/17 | 로또의 최고 순위와 최저 순위 | https://bit.ly/3xN3v1o |       구현       | Level 1 |
+| 7/17 |         3진법 뒤집기         | https://bit.ly/3krUrv6 |       구현       | Level 1 |
+| 7/17 |             예산             | https://bit.ly/3Bh3aqa |      그리디      | Level 1 |
+| 7/17 |     두 개 뽑아서 더하기      | https://bit.ly/3ktt6c4 |  완전탐색, 해시  | Level 1 |
+| 7/17 |     가운데 글자 가져오기     | https://bit.ly/3wMOmvC |      문자열      | Level 1 |
+| 7/17 |            실패율            | https://bit.ly/3B5WJG6 |       구현       | Level 1 |
+| 7/17 |    수박수박수박수박수박수    | https://bit.ly/3xHvHTr |       구현       | Level 1 |
+| 7/17 |      문자열 다루기 기본      | https://bit.ly/2VXfvj7 |      문자열      | Level 1 |
+| 7/17 |  나누어 떨어지는 숫자 배열   | https://bit.ly/3z6Cgzd |     배열처리     | Level 1 |
+| 7/17 |           비밀지도           | https://bit.ly/3wGAbs8 | 문자열, 비트연산 | Level 1 |
+| 7/17 |      두 정수 사이의 합       | https://bit.ly/3z4R0yD |       구현       | Level 1 |
+| 7/17 |    문잘열 내 p와 y의 개수    | https://bit.ly/3hLnzfd |      문자열      | Level 1 |
+| 7/17 |         행렬의 덧샘          | https://bit.ly/3wMGmLa |  구현, 배열처리  | Level 1 |
+| 7/17 | 문자열 내림차순으로 배치하기 | https://bit.ly/3xPdrr8 |   문자열, 정렬   | Level 1 |
+| 7/17 | 문자열 내 마음대로 정렬하기  | https://bit.ly/3B80afD |   문자열, 정렬   | Level 1 |
+| 7/17 |           소수찾기           | https://bit.ly/3B82X8B |    수학, 구현    | Level 1 |
+| 7/17 |    제일 작은 수 제거하기     | https://bit.ly/3hN1gFQ |  구현, 배열처리  | Level 1 |
+| 7/17 |         짝수와 홀수          | https://bit.ly/3ksWfUB |       구현       | Level 1 |
+| 7/17 |         평균 구하기          | https://bit.ly/2Ude8MH |       구현       | Level 1 |
+| 7/17 |  정수 내림차순으로 배치하기  | https://bit.ly/3rfDxkN |       정렬       | Level 1 |
+| 7/17 |        자릿수 더하기         | https://bit.ly/3ilB7wX |       구현       | Level 1 |
 
 </details>
