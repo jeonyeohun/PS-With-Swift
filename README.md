@@ -50,5 +50,7 @@
 | 7/17 |             예산             | https://bit.ly/3Bh3aqa |     그리디     | Level 1 |
 | 7/17 |     두 개 뽑아서 더하기      | https://bit.ly/3ktt6c4 | 완전탐색, 해시 | Level 1 |
 | 7/17 |     가운데 글자 가져오기     | https://bit.ly/3wMOmvC |     문자열     | Level 1 |
+| 7/17 |            실패율            | https://bit.ly/3B5WJG6 |      구현      | Level 1 |
+| 7/17 |    수박수박수박수박수박수    | https://bit.ly/3xHvHTr |      구현      | Level 1 |
 
 </details>
