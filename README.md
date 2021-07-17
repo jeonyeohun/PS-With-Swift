@@ -66,5 +66,15 @@
 | 7/17 |         평균 구하기          | https://bit.ly/2Ude8MH |       구현       | Level 1 |
 | 7/17 |  정수 내림차순으로 배치하기  | https://bit.ly/3rfDxkN |       정렬       | Level 1 |
 | 7/17 |        자릿수 더하기         | https://bit.ly/3ilB7wX |       구현       | Level 1 |
+| 7/17 |     서울에서 김서방 찾기     | https://bit.ly/36J829m |     배열처리     | Level 1 |
+| 7/17 | x만큼 간격이 있는 n개의 숫자 | https://bit.ly/3etOjyH |       구현       | Level 1 |
+| 7/17 |    문자열을 정수로 바꾸기    | https://bit.ly/2VXAJ0h |       구현       | Level 1 |
+| 7/17 | 자연수 뒤집어 배열로 만들기  | https://bit.ly/3z9v71e |       구현       | Level 1 |
+| 7/17 |      핸드폰 번호 가리기      | https://bit.ly/3ktzz6L |      문자열      | Level 1 |
+| 7/17 |       정수 제곱근 판별       | https://bit.ly/3xMNKaF |       구현       | Level 1 |
+| 7/17 |           시저암호           | https://bit.ly/36I3wrz |       구현       | Level 1 |
+| 7/17 |      이상한 문자 만들기      | https://bit.ly/3BejNTf |       구현       | Level 1 |
+| 7/17 |          약수의 합           | https://bit.ly/3z9gMlf |    구현, 수학    | Level 1 |
+| 7/17 |   최대공약수와 최소공배수    | https://bit.ly/3evYAKF |    구현, 수학    | Level 1 |
 
 </details>
