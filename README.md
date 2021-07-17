@@ -34,18 +34,21 @@
 <details open>
 <summary>2021년 7월</summary>
 
-| 날짜 |          문제 이름           |          링크          |     유형     | 난이도  |
-| :--: | :--------------------------: | :--------------------: | :----------: | :-----: |
-| 7/1  |       직사각형 별찍기        | https://bit.ly/3waN9Os |     구현     | Level 1 |
-| 7/13 |         음양 더하기          | https://bit.ly/3B7W1IH |     구현     | Level 1 |
-| 7/14 |           모의고사           | https://bit.ly/3ki4D9j |   완전탐색   | Level 1 |
-| 7/15 |     크레인 인형뽑기 게임     | https://bit.ly/2VKVZpR |  스택, 구현  | Level 1 |
-| 7/16 |            체육복            | https://bit.ly/3xN3v1o |    그리디    | Level 1 |
-| 7/17 |             내적             | https://bit.ly/3kx32N5 |     구현     | Level 1 |
-| 7/17 |          소수만들기          | https://bit.ly/3xLMh4J |   완전탐색   | Level 1 |
-| 7/17 |     순자 문자열과 영단어     | https://bit.ly/3kup3My |    문자열    | Level 1 |
-| 7/17 |       신규 아이디 추천       | https://bit.ly/3z92H7g | 문자열, 구현 | Level 1 |
-| 7/17 | 로또의 최고 순위와 최저 순위 | https://bit.ly/3xN3v1o |     구현     | Level 1 |
-| 7/17 |         3진법 뒤집기         | https://bit.ly/3krUrv6 |     구현     | Level 1 |
+| 날짜 |          문제 이름           |          링크          |      유형      | 난이도  |
+| :--: | :--------------------------: | :--------------------: | :------------: | :-----: |
+| 7/1  |       직사각형 별찍기        | https://bit.ly/3waN9Os |      구현      | Level 1 |
+| 7/13 |         음양 더하기          | https://bit.ly/3B7W1IH |      구현      | Level 1 |
+| 7/14 |           모의고사           | https://bit.ly/3ki4D9j |    완전탐색    | Level 1 |
+| 7/15 |     크레인 인형뽑기 게임     | https://bit.ly/2VKVZpR |   스택, 구현   | Level 1 |
+| 7/16 |            체육복            | https://bit.ly/3xN3v1o |     그리디     | Level 1 |
+| 7/17 |             내적             | https://bit.ly/3kx32N5 |      구현      | Level 1 |
+| 7/17 |          소수만들기          | https://bit.ly/3xLMh4J |    완전탐색    | Level 1 |
+| 7/17 |     순자 문자열과 영단어     | https://bit.ly/3kup3My |     문자열     | Level 1 |
+| 7/17 |       신규 아이디 추천       | https://bit.ly/3z92H7g |  문자열, 구현  | Level 1 |
+| 7/17 | 로또의 최고 순위와 최저 순위 | https://bit.ly/3xN3v1o |      구현      | Level 1 |
+| 7/17 |         3진법 뒤집기         | https://bit.ly/3krUrv6 |      구현      | Level 1 |
+| 7/17 |             예산             | https://bit.ly/3Bh3aqa |     그리디     | Level 1 |
+| 7/17 |     두 개 뽑아서 더하기      | https://bit.ly/3ktt6c4 | 완전탐색, 해시 | Level 1 |
+| 7/17 |     가운데 글자 가져오기     | https://bit.ly/3wMOmvC |     문자열     | Level 1 |
 
 </details>
