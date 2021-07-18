@@ -79,5 +79,6 @@
 | 7/18 |           다트게임           | https://bit.ly/3zbdBcI |       구현       | Level 1 |
 | 7/18 |            2016년            | https://bit.ly/3ewXVIZ |       구현       | Level 1 |
 | 7/18 |      **레벨 1 정복 🎉**      |                        |                  |         |
+| 7/18 |       짝지어 제거하기        | https://bit.ly/3rpdtnl |       스택       | Level 2 |
 
 </details>
