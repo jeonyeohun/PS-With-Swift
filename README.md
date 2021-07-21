@@ -80,5 +80,6 @@
 | 7/18 |      **레벨 1 정복 🎉**      |           🎉           |        🎉        |   🎉    |
 | 7/18 |       짝지어 제거하기        | https://bit.ly/3rpdtnl |       스택       | Level 2 |
 | 7/20 |            프린터            | https://bit.ly/3Boeukg |        덱        | Level 2 |
+| 7/21 |          가장 큰 수          | https://bit.ly/3Brcmbl |       정렬       | Level 2 |
 
 </details>
