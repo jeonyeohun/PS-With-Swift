@@ -81,5 +81,13 @@
 | 7/18 |       짝지어 제거하기        | https://bit.ly/3rpdtnl |       스택       | Level 2 |
 | 7/20 |            프린터            | https://bit.ly/3Boeukg |        덱        | Level 2 |
 | 7/21 |          가장 큰 수          | https://bit.ly/3Brcmbl |       정렬       | Level 2 |
+| 7/24 |          오픈채팅방          | https://bit.ly/2VauRAk |      해시맵      | Level 2 |
+| 7/24 |           타겟넘버           | https://bit.ly/3kPJB2d |     DFS/BFS      | Level 2 |
+| 7/24 |           기능개발           | https://bit.ly/3y8Kyqo |       스택       | Level 2 |
+| 7/24 |          소수 찾기           | https://bit.ly/3x1jDew |  완전탐색, 조합  | Level 2 |
+| 7/24 |          괄호 변환           | https://bit.ly/3hYhUCq |   구현, 문자열   | Level 2 |
+| 7/24 |         큰 수 만들기         | https://bit.ly/36UQhUJ |   구현, 문자열   | Level 2 |
+
+https://bit.ly/36UQhUJ
 
 </details>
