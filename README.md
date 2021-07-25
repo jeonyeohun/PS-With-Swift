@@ -87,7 +87,7 @@
 | 7/24 |          소수 찾기           | https://bit.ly/3x1jDew |  완전탐색, 조합  | Level 2 |
 | 7/24 |          괄호 변환           | https://bit.ly/3hYhUCq |   구현, 문자열   | Level 2 |
 | 7/24 |         큰 수 만들기         | https://bit.ly/36UQhUJ |   구현, 문자열   | Level 2 |
-
-https://bit.ly/36UQhUJ
+| 7/25 |      다리를 지나는 트럭      | https://bit.ly/3zwdo47 |     구현, 덱     | Level 2 |
+| 7/25 |             배달             | https://bit.ly/3y6cNWq | BFS, 다익스트라  | Level 2 |
 
 </details>
