@@ -89,5 +89,8 @@
 | 7/24 |         큰 수 만들기         | https://bit.ly/36UQhUJ |   구현, 문자열   | Level 2 |
 | 7/25 |      다리를 지나는 트럭      | https://bit.ly/3zwdo47 |     구현, 덱     | Level 2 |
 | 7/25 |             배달             | https://bit.ly/3y6cNWq | BFS, 다익스트라  | Level 2 |
+| 7/31 |        괄호 회전하기         | https://bit.ly/2V0SknW |     구현, 덱     | Level 2 |
+| 7/31 |             카펫             | https://bit.ly/2V07MRf |     구현, 덱     | Level 2 |
+| 7/31 |         올바른 괄호          | https://bit.ly/3ymS4y0 |       구현       | Level 2 |
 
 </details>
