@@ -30,7 +30,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary>2021년 7월</summary>
 
 | 날짜 |          문제 이름           |          링크          |       유형       | 난이도  |
@@ -92,5 +92,15 @@
 | 7/31 |        괄호 회전하기         | https://bit.ly/2V0SknW |     구현, 덱     | Level 2 |
 | 7/31 |             카펫             | https://bit.ly/2V07MRf |     구현, 덱     | Level 2 |
 | 7/31 |         올바른 괄호          | https://bit.ly/3ymS4y0 |       구현       | Level 2 |
+
+</details>
+
+<details open>
+<summary>2021년 8월</summary>
+
+| 날짜 |   문제 이름   |          링크          |      유형      | 난이도  |
+| :--: | :-----------: | :--------------------: | :------------: | :-----: |
+| 8/16 |    H-Index    | https://bit.ly/2UlXb2B | 정렬, 이분탐색 | Level 2 |
+| 8/16 | 영어 끝말잇기 | https://bit.ly/3k1b4Ma |  구현, 문자열  | Level 1 |
 
 </details>
