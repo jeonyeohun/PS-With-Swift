@@ -105,5 +105,6 @@
 | 8/20 |  다음 큰 숫자   | https://bit.ly/3mhE7Os |      구현      | Level 2 |
 | 8/20 | 최댓값과 최솟값 | https://bit.ly/3AOe4m6 |      구현      | Level 2 |
 | 8/20 |    땅따먹기     | https://bit.ly/3gBHmwL |       DP       | Level 2 |
+| 8/22 |  최솟값 만들기  | https://bit.ly/3z4hiBo |  정렬, 그리디  | Level 2 |
 
 </details>
