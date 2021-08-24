@@ -98,13 +98,16 @@
 <details open>
 <summary>2021년 8월</summary>
 
-| 날짜 |    문제 이름    |          링크          |      유형      | 난이도  |
-| :--: | :-------------: | :--------------------: | :------------: | :-----: |
-| 8/16 |     H-Index     | https://bit.ly/2UlXb2B | 정렬, 이분탐색 | Level 2 |
-| 8/16 |  영어 끝말잇기  | https://bit.ly/3k1b4Ma |  구현, 문자열  | Level 2 |
-| 8/20 |  다음 큰 숫자   | https://bit.ly/3mhE7Os |      구현      | Level 2 |
-| 8/20 | 최댓값과 최솟값 | https://bit.ly/3AOe4m6 |      구현      | Level 2 |
-| 8/20 |    땅따먹기     | https://bit.ly/3gBHmwL |       DP       | Level 2 |
-| 8/22 |  최솟값 만들기  | https://bit.ly/3z4hiBo |  정렬, 그리디  | Level 2 |
+| 날짜 |        문제 이름        |          링크          |      유형      | 난이도  |
+| :--: | :---------------------: | :--------------------: | :------------: | :-----: |
+| 8/16 |         H-Index         | https://bit.ly/2UlXb2B | 정렬, 이분탐색 | Level 2 |
+| 8/16 |      영어 끝말잇기      | https://bit.ly/3k1b4Ma |  구현, 문자열  | Level 2 |
+| 8/20 |      다음 큰 숫자       | https://bit.ly/3mhE7Os |      구현      | Level 2 |
+| 8/20 |     최댓값과 최솟값     | https://bit.ly/3AOe4m6 |      구현      | Level 2 |
+| 8/20 |        땅따먹기         | https://bit.ly/3gBHmwL |       DP       | Level 2 |
+| 8/22 |      최솟값 만들기      | https://bit.ly/3z4hiBo |  정렬, 그리디  | Level 2 |
+| 8/24 |       피보나치 수       | https://bit.ly/3B2LWM2 |       DP       | Level 2 |
+| 8/24 | JadenCase 문자열 만들기 | https://bit.ly/3B6v5I9 |     문자열     | Level 2 |
+| 8/24 |    N개의 최소공배수     | https://bit.ly/3kpgwJj |      수학      | Level 2 |
 
 </details>
