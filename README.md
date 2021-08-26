@@ -109,6 +109,7 @@
 | 8/24 |       피보나치 수       | https://bit.ly/3B2LWM2 |       DP       | Level 2 |
 | 8/24 | JadenCase 문자열 만들기 | https://bit.ly/3B6v5I9 |     문자열     | Level 2 |
 | 8/24 |    N개의 최소공배수     | https://bit.ly/3kpgwJj |      수학      | Level 2 |
-| 8/24 |  2개 이하로 다른 비트   | https://bit.ly/3gAjzgA |    비트연산    | Level 2 |
+| 8/26 |  2개 이하로 다른 비트   | https://bit.ly/3gAjzgA |    비트연산    | Level 2 |
+| 8/26 |          튜플           | https://bit.ly/2WoHg47 |      구현      | Level 2 |
 
 </details>
