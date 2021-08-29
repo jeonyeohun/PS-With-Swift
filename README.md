@@ -98,18 +98,23 @@
 <details open>
 <summary>2021년 8월</summary>
 
-| 날짜 |        문제 이름        |          링크          |      유형      | 난이도  |
-| :--: | :---------------------: | :--------------------: | :------------: | :-----: |
-| 8/16 |         H-Index         | https://bit.ly/2UlXb2B | 정렬, 이분탐색 | Level 2 |
-| 8/16 |      영어 끝말잇기      | https://bit.ly/3k1b4Ma |  구현, 문자열  | Level 2 |
-| 8/20 |      다음 큰 숫자       | https://bit.ly/3mhE7Os |      구현      | Level 2 |
-| 8/20 |     최댓값과 최솟값     | https://bit.ly/3AOe4m6 |      구현      | Level 2 |
-| 8/20 |        땅따먹기         | https://bit.ly/3gBHmwL |       DP       | Level 2 |
-| 8/22 |      최솟값 만들기      | https://bit.ly/3z4hiBo |  정렬, 그리디  | Level 2 |
-| 8/24 |       피보나치 수       | https://bit.ly/3B2LWM2 |       DP       | Level 2 |
-| 8/24 | JadenCase 문자열 만들기 | https://bit.ly/3B6v5I9 |     문자열     | Level 2 |
-| 8/24 |    N개의 최소공배수     | https://bit.ly/3kpgwJj |      수학      | Level 2 |
-| 8/26 |  2개 이하로 다른 비트   | https://bit.ly/3gAjzgA |    비트연산    | Level 2 |
-| 8/26 |          튜플           | https://bit.ly/2WoHg47 |      구현      | Level 2 |
+| 날짜 |        문제 이름        |          링크          |      유형       | 난이도  |
+| :--: | :---------------------: | :--------------------: | :-------------: | :-----: |
+| 8/16 |         H-Index         | https://bit.ly/2UlXb2B | 정렬, 이분탐색  | Level 2 |
+| 8/16 |      영어 끝말잇기      | https://bit.ly/3k1b4Ma |  구현, 문자열   | Level 2 |
+| 8/20 |      다음 큰 숫자       | https://bit.ly/3mhE7Os |      구현       | Level 2 |
+| 8/20 |     최댓값과 최솟값     | https://bit.ly/3AOe4m6 |      구현       | Level 2 |
+| 8/20 |        땅따먹기         | https://bit.ly/3gBHmwL |       DP        | Level 2 |
+| 8/22 |      최솟값 만들기      | https://bit.ly/3z4hiBo |  정렬, 그리디   | Level 2 |
+| 8/24 |       피보나치 수       | https://bit.ly/3B2LWM2 |       DP        | Level 2 |
+| 8/24 | JadenCase 문자열 만들기 | https://bit.ly/3B6v5I9 |     문자열      | Level 2 |
+| 8/24 |    N개의 최소공배수     | https://bit.ly/3kpgwJj |      수학       | Level 2 |
+| 8/26 |  2개 이하로 다른 비트   | https://bit.ly/3gAjzgA |    비트연산     | Level 2 |
+| 8/26 |          튜플           | https://bit.ly/2WoHg47 |      구현       | Level 2 |
+| 8/29 |       메뉴 리뉴얼       | https://bit.ly/3yoNxKr |      조합       | Level 2 |
+| 8/29 |       n진수 게임        | https://bit.ly/3kByQ1B |      구현       | Level 2 |
+| 8/29 |   이진 변환 반복하기    | https://bit.ly/2Wwin6P | 구현, 진수 변환 | Level 2 |
+| 8/29 |          캐시           | https://bit.ly/3zrTXd8 |      구현       | Level 2 |
+| 8/29 |         후보키          | https://bit.ly/3Dv417o |      구현       | Level 2 |
 
 </details>
