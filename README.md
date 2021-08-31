@@ -117,5 +117,6 @@
 | 8/29 |          캐시           | https://bit.ly/3zrTXd8 |      구현       | Level 2 |
 | 8/29 |         후보키          | https://bit.ly/3Dv417o |      구현       | Level 2 |
 | 8/30 |     뉴스 클러스터링     | https://bit.ly/3jtgIrJ |      구현       | Level 2 |
+| 8/31 |       수식 최대화       | https://bit.ly/3t1mNyA |      구현       | Level 2 |
 
 </details>
