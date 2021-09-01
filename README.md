@@ -87,7 +87,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary>2021년 8월</summary>
 
 | 날짜 |        문제 이름        |          링크          |      유형       | 난이도  |
@@ -110,5 +110,14 @@
 | 8/29 |         후보키          | https://bit.ly/3Dv417o |      구현       | Level 2 |
 | 8/30 |     뉴스 클러스터링     | https://bit.ly/3jtgIrJ |      구현       | Level 2 |
 | 8/31 |       수식 최대화       | https://bit.ly/3t1mNyA |      구현       | Level 2 |
+
+</details>
+
+<details open>
+<summary>2021년 9월</summary>
+
+| 날짜 |       문제 이름       |          링크          | 유형 | 난이도  |
+| :--: | :-------------------: | :--------------------: | :--: | :-----: |
+| 9/1  | 가장 큰 정사각형 찾기 | https://bit.ly/3DFKFwO |  DP  | Level 2 |
 
 </details>
