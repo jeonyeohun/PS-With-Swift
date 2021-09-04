@@ -116,10 +116,10 @@
 <details open>
 <summary>2021년 9월</summary>
 
-| 날짜 |       문제 이름       |          링크          | 유형 | 난이도  |
-| :--: | :-------------------: | :--------------------: | :--: | :-----: |
-| 9/1  | 가장 큰 정사각형 찾기 | https://bit.ly/3DFKFwO |  DP  | Level 2 |
-| 9/4  |   거리두기 확인하기   | https://bit.ly/38FvuFl | BFS  | Level 2 |
-| 9/4  |       순위 검색       | https://bit.ly/3DNVfBO | BFS  | Level 2 |
+| 날짜 |       문제 이름       |          링크          |       유형        | 난이도  |
+| :--: | :-------------------: | :--------------------: | :---------------: | :-----: |
+| 9/1  | 가장 큰 정사각형 찾기 | https://bit.ly/3DFKFwO |        DP         | Level 2 |
+| 9/4  |   거리두기 확인하기   | https://bit.ly/38FvuFl |        BFS        | Level 2 |
+| 9/4  |       순위 검색       | https://bit.ly/3DNVfBO | 이분 탐색, 해시맵 | Level 2 |
 
 </details>
