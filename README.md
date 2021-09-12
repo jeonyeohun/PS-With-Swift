@@ -123,5 +123,7 @@
 | 9/4  |       순위 검색       | https://bit.ly/3DNVfBO | 이분 탐색, 해시맵 | Level 2 |
 | 9/5  |       방문 길이       | https://bit.ly/3kYZd1F |       구현        | Level 2 |
 | 9/9  |      프렌즈4블록      | https://bit.ly/3ttrcKL |       구현        | Level 2 |
+| 9/12 |       방금그곡        | https://bit.ly/3tBlOFO |  문자열, 해시맵   | Level 2 |
+| 9/12 |         압축          | https://bit.ly/3npB7QP |   문자열, 구현    | Level 2 |
 
 </details>
