@@ -1,6 +1,4 @@
-
 // 재귀로 풀이
-import Foundation
 import Foundation
 
 func erase(_ number: inout [Character], _ k: inout Int, _ eraseCount: Int) -> [Character]{
@@ -56,31 +54,4 @@ func solution(_ number:String, _ k:Int) -> String {
     
     
     return String(nums)
-}
-
-
-//
-
-import Foundation
-
-func solution(_ number:String, _ k:Int) -> String {
-    let numbers = number.compactMap { Int(String($0)) }
-    var sub = [Int]()
-    var k = k
-
-    for (i, v) in numbers.enumerated() {
-        while k > 0, !sub.isEmpty, sub.last! < v {
-            k -= 1
-            sub.removeLast()
-        }
-
-        if k == 0 {
-            sub.append(contentsOf: numbers[i...])
-            break
-        } else {
-            sub.append(v)
-        }
-    }
-
-    return sub[..<(sub.count - k)].map { String($0) }.joined()
 }
