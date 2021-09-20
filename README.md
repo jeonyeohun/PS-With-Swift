@@ -128,5 +128,7 @@
 | 9/12 |         압축          | https://bit.ly/3npB7QP |   문자열, 구현    | Level 2 |
 | 9/12 |  **레벨 2 정복 🎉**   |           🎉           |        🎉         |   🎉    |
 | 9/18 |      추석트래픽       | https://bit.ly/3Cmb6pG |       구현        | Level 3 |
+| 9/20 |       입국심사        | https://bit.ly/3nNxZOI |     이분탐색      | Level 3 |
+| 9/20 |     가장 먼 노드      | https://bit.ly/3tWthzq |        BFS        | Level 3 |
 
 </details>
