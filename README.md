@@ -132,5 +132,6 @@
 | 9/20 |     가장 먼 노드      | https://bit.ly/3tWthzq |        BFS         | Level 3 |
 | 9/20 |       네트워크        | https://bit.ly/3lGhFN3 | 유니온 파인드, DFS | Level 3 |
 | 9/20 |         순위          | https://bit.ly/3hRVCSm |   플로이드 워셜    | Level 3 |
+| 9/21 |       멀리뛰기        | https://bit.ly/3CAbfpx |         DP         | Level 3 |
 
 </details>
