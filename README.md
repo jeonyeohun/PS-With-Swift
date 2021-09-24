@@ -140,5 +140,6 @@
 | 9/20 |         순위          | https://bit.ly/3hRVCSm |   플로이드 워셜    | Level 3 |
 | 9/22 |       멀리뛰기        | https://bit.ly/3CAbfpx |         DP         | Level 3 |
 | 9/23 |    디스크 컨트롤러    | https://bit.ly/3CFrulq |      구현, 힙      | Level 3 |
+| 9/24 |    이중우선순위큐     | https://bit.ly/39BCbce |      힙, 정렬      | Level 3 |
 
 </details>
