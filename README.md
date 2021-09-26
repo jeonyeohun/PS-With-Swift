@@ -123,24 +123,25 @@
 <details open>
 <summary>2021년 9월</summary>
 
-| 날짜 |       문제 이름       |          링크          |        유형        | 난이도  |
-| :--: | :-------------------: | :--------------------: | :----------------: | :-----: |
-| 9/1  | 가장 큰 정사각형 찾기 | https://bit.ly/3DFKFwO |         DP         | Level 2 |
-| 9/4  |   거리두기 확인하기   | https://bit.ly/38FvuFl |        BFS         | Level 2 |
-| 9/4  |       순위 검색       | https://bit.ly/3DNVfBO | 이분 탐색, 해시맵  | Level 2 |
-| 9/5  |       방문 길이       | https://bit.ly/3kYZd1F |        구현        | Level 2 |
-| 9/9  |      프렌즈4블록      | https://bit.ly/3ttrcKL |        구현        | Level 2 |
-| 9/12 |       방금그곡        | https://bit.ly/3tBlOFO |   문자열, 해시맵   | Level 2 |
-| 9/12 |         압축          | https://bit.ly/3npB7QP |    문자열, 구현    | Level 2 |
-| 9/12 |  **레벨 2 정복 🎉**   |           🎉           |         🎉         |   🎉    |
-| 9/18 |      추석트래픽       | https://bit.ly/3Cmb6pG |        구현        | Level 3 |
-| 9/20 |       입국심사        | https://bit.ly/3nNxZOI |      이분탐색      | Level 3 |
-| 9/20 |     가장 먼 노드      | https://bit.ly/3tWthzq |        BFS         | Level 3 |
-| 9/20 |       네트워크        | https://bit.ly/3lGhFN3 | 유니온 파인드, DFS | Level 3 |
-| 9/20 |         순위          | https://bit.ly/3hRVCSm |   플로이드 워셜    | Level 3 |
-| 9/22 |       멀리뛰기        | https://bit.ly/3CAbfpx |         DP         | Level 3 |
-| 9/23 |    디스크 컨트롤러    | https://bit.ly/3CFrulq |      구현, 힙      | Level 3 |
-| 9/24 |    이중우선순위큐     | https://bit.ly/39BCbce |      힙, 정렬      | Level 3 |
-| 9/25 |       단어 변환       | https://bit.ly/3m4h0W6 |        BFS         | Level 3 |
+| 날짜 |       문제 이름       |          링크           |        유형        | 난이도  |
+| :--: | :-------------------: | :---------------------: | :----------------: | :-----: |
+| 9/1  | 가장 큰 정사각형 찾기 | https://bit.ly/3DFKFwO  |         DP         | Level 2 |
+| 9/4  |   거리두기 확인하기   | https://bit.ly/38FvuFl  |        BFS         | Level 2 |
+| 9/4  |       순위 검색       | https://bit.ly/3DNVfBO  | 이분 탐색, 해시맵  | Level 2 |
+| 9/5  |       방문 길이       | https://bit.ly/3kYZd1F  |        구현        | Level 2 |
+| 9/9  |      프렌즈4블록      | https://bit.ly/3ttrcKL  |        구현        | Level 2 |
+| 9/12 |       방금그곡        | https://bit.ly/3tBlOFO  |   문자열, 해시맵   | Level 2 |
+| 9/12 |         압축          | https://bit.ly/3npB7QP  |    문자열, 구현    | Level 2 |
+| 9/12 |  **레벨 2 정복 🎉**   |           🎉            |         🎉         |   🎉    |
+| 9/18 |      추석트래픽       | https://bit.ly/3Cmb6pG  |        구현        | Level 3 |
+| 9/20 |       입국심사        | https://bit.ly/3nNxZOI  |      이분탐색      | Level 3 |
+| 9/20 |     가장 먼 노드      | https://bit.ly/3tWthzq  |        BFS         | Level 3 |
+| 9/20 |       네트워크        | https://bit.ly/3lGhFN3  | 유니온 파인드, DFS | Level 3 |
+| 9/20 |         순위          | https://bit.ly/3hRVCSm  |   플로이드 워셜    | Level 3 |
+| 9/22 |       멀리뛰기        | https://bit.ly/3CAbfpx  |         DP         | Level 3 |
+| 9/23 |    디스크 컨트롤러    | https://bit.ly/3CFrulq  |      구현, 힙      | Level 3 |
+| 9/24 |    이중우선순위큐     | https://bit.ly/39BCbce  |      힙, 정렬      | Level 3 |
+| 9/25 |       단어 변환       | https://bit.ly/3m4h0W6  |        BFS         | Level 3 |
+| 9/26 |      베스트앨범       | hhttps://bit.ly/2WbG04y |        해시        | Level 3 |
 
 </details>
