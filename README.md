@@ -144,6 +144,8 @@
 | 9/25 |       단어 변환       | https://bit.ly/3m4h0W6  |        BFS         | Level 3 |
 | 9/26 |      베스트앨범       | hhttps://bit.ly/2WbG04y |        해시        | Level 3 |
 
+</details>
+
 <details opened>
 <summary>2021년 10월</summary>
 
