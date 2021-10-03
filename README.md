@@ -120,7 +120,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary>2021년 9월</summary>
 
 | 날짜 |       문제 이름       |          링크           |        유형        | 난이도  |
@@ -143,5 +143,13 @@
 | 9/24 |    이중우선순위큐     | https://bit.ly/39BCbce  |      힙, 정렬      | Level 3 |
 | 9/25 |       단어 변환       | https://bit.ly/3m4h0W6  |        BFS         | Level 3 |
 | 9/26 |      베스트앨범       | hhttps://bit.ly/2WbG04y |        해시        | Level 3 |
+
+<details opened>
+<summary>2021년 10월</summary>
+
+| 날짜 |  문제 이름  |          링크          |   유형   | 난이도  |
+| :--: | :---------: | :--------------------: | :------: | :-----: |
+| 10/3 |  여행경로   | https://bit.ly/3FdgVYM |   DFS    | Level 3 |
+| 10/3 | 섬 연결하기 | https://bit.ly/2ZMPh4x | 크루스칼 | Level 3 |
 
 </details>
