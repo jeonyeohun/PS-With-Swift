@@ -16,8 +16,7 @@ func solution(_ tickets:[[String]]) -> [String] {
     func dfs(here: String) -> [String] {
         if routes.values.flatMap({ $0 }).allSatisfy({ ticket in ticket.visited == true }) {
             return path
-        }
-        
+        }    
         guard let nextRoute = routes[here] else { return [] }
         
         for (index, next) in nextRoute.enumerated() {
