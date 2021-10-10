@@ -149,10 +149,11 @@
 <details open>
 <summary>2021년 10월</summary>
 
-| 날짜 |   문제 이름   |          링크          |   유형   | 난이도  |
-| :--: | :-----------: | :--------------------: | :------: | :-----: |
-| 10/3 |   여행경로    | https://bit.ly/3FdgVYM |   DFS    | Level 3 |
-| 10/3 |  섬 연결하기  | https://bit.ly/2ZMPh4x | 크루스칼 | Level 3 |
-| 10/9 | 자물쇠와 열쇠 | https://bit.ly/2YA9Ro1 |   구현   | Level 3 |
+| 날짜  |   문제 이름   |          링크          |        유형        | 난이도  |
+| :---: | :-----------: | :--------------------: | :----------------: | :-----: |
+| 10/3  |   여행경로    | https://bit.ly/3FdgVYM |        DFS         | Level 3 |
+| 10/3  |  섬 연결하기  | https://bit.ly/2ZMPh4x |      크루스칼      | Level 3 |
+| 10/9  | 자물쇠와 열쇠 | https://bit.ly/2YA9Ro1 |        구현        | Level 3 |
+| 10/10 |    표 편집    | https://bit.ly/3uYtz99 | 구현, 링크드리스트 | Level 3 |
 
 </details>
