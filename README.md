@@ -155,5 +155,6 @@
 | 10/3  |  섬 연결하기  | https://bit.ly/2ZMPh4x |      크루스칼      | Level 3 |
 | 10/9  | 자물쇠와 열쇠 | https://bit.ly/2YA9Ro1 |        구현        | Level 3 |
 | 10/10 |    표 편집    | https://bit.ly/3uYtz99 | 구현, 링크드리스트 | Level 3 |
+| 10/10 |  기지국 설치  | https://bit.ly/3ap2UsN |       그리디       | Level 3 |
 
 </details>
