@@ -1,35 +1,44 @@
 import Foundation
 
 func solution(_ board:[[Int]]) -> Int {
-    enum Dir {
-        case start, up, right, left, down;
+    enum Direction: Int {
+        case down, up, right, left;
     }
-    var visited = Array(repeating: Array(repeating: false, count: board.count), count: board.count)
-    var minCost = 987654321
-    func dfs(_ x: Int, _ y: Int, _ totalCost: Int, _ currDir: Dir) {
-        visited[x][y] = true 
+    let costs = Array(repeating: Array(repeating: 987654321, count: board.count), count: board.count)
+    var dirCosts = Array(repeating: costs, count: 4)
+
+    for i in 0..<4 {
+        dirCosts[i][0][0] = 0
+    }
+
+    func isInRange(x: Int, y: Int) -> Bool {
+        return x >= 0 && x < board.count && y >= 0 && y < board.count
+    }
+
+    func dfs(_ x: Int, _ y: Int, _ currDir: Direction) {
         let xDir = [0, 0, 1, -1]
         let yDir = [1, -1, 0, 0]
-        let dirs:[Dir] = [.down, .up, .right, .left]
+        let dirs:[Direction] = [.down, .up, .right, .left]
 
-        if x == board.count - 1 && y == board.count - 1 {
-            minCost = min(minCost, totalCost)
-        }
-        
         for i in 0..<4 {
             let nextX = x + xDir[i]
             let nextY = y + yDir[i]
             let nextDir = dirs[i]
-            let cost = (currDir == .start) || (currDir == nextDir) ? 100 : 600
-            if (nextX >= 0 && nextX < board.count)
-            && (nextY >= 0 && nextY < board.count)
-            && visited[nextX][nextY] == false
-            && board[nextX][nextY] != 1 {
-             dfs(nextX, nextY, totalCost + cost, nextDir)   
+            let costNext = dirCosts[currDir.rawValue][x][y] + (currDir == nextDir ? 100 : 600)
+
+            guard isInRange(x: nextX, y: nextY) == true,
+                  dirCosts[i][nextX][nextY] > costNext else { continue }
+
+            dirCosts[i][nextX][nextY] = costNext
+            if board[nextX][nextY] != 1 {
+                dfs(nextX, nextY, nextDir)
             }
         }
-        visited[x][y] = false 
     }
-    dfs(0, 0, 0, .start)
-    return minCost
+    dfs(0, 0, .up)
+    dfs(0, 0, .left)
+    dfs(0, 0, .right)
+    dfs(0, 0, .down)
+
+    return dirCosts.map({ $0[board.count - 1][board.count - 1] }).min() as! Int
 }
