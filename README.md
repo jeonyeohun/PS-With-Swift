@@ -159,5 +159,7 @@
 | 10/17 |     없는 숫자 더하기      | https://bit.ly/3AJonHC |        구현        | Level 1 |
 | 10/17 | 나머지가 1이 되는 수 찾기 | https://bit.ly/3j9jemh |        구현        | Level 1 |
 | 10/23 |        경주로 건설        | https://bit.ly/3b7g9Pf |       DFS+DP       | Level 3 |
+| 10/28 |         셔틀버스          | https://bit.ly/3vQT5hj |        구현        | Level 3 |
+| 10/28 |     다단계 칫솔 판매      | https://bit.ly/2Zsgg5i |     구현, 재귀     | Level 3 |
 
 </details>
