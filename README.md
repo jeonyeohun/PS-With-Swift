@@ -162,5 +162,6 @@
 | 10/28 |         셔틀버스          | https://bit.ly/3vQT5hj |        구현        | Level 3 |
 | 10/28 |     다단계 칫솔 판매      | https://bit.ly/2Zsgg5i |     구현, 재귀     | Level 3 |
 | 10/29 |          N-Queen          | https://bit.ly/2ZGkEy6 |      백트래킹      | Level 3 |
+| 10/29 |      합승 택시 요금       | https://bit.ly/3EpwDP6 |      플로이드      | Level 3 |
 
 </details>
