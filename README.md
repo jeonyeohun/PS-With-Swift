@@ -146,7 +146,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary>2021년 10월</summary>
 
 | 날짜  |         문제 이름         |          링크          |        유형        | 난이도  |
@@ -163,5 +163,38 @@
 | 10/28 |     다단계 칫솔 판매      | https://bit.ly/2Zsgg5i |     구현, 재귀     | Level 3 |
 | 10/29 |          N-Queen          | https://bit.ly/2ZGkEy6 |      백트래킹      | Level 3 |
 | 10/29 |      합승 택시 요금       | https://bit.ly/3EpwDP6 |      플로이드      | Level 3 |
+
+</details>
+
+<details open>
+<summary>2021년 12월</summary>
+
+| 날짜  |     문제 이름     |                 링크                  |       유형        |  난이도  |
+| :---: | :---------------: | :-----------------------------------: | :---------------: | :------: |
+| 12/6  |     N과 M (1)     | https://www.acmicpc.net/problem/15649 |     백트래킹      | Silver 3 |
+| 12/6  |     N과 M (2)     | https://www.acmicpc.net/problem/15650 |     백트래킹      | Silver 3 |
+| 12/7  |       IOIOI       | https://www.acmicpc.net/problem/5525  |      문자열       | Silver 2 |
+| 12/7  |      컨설팅       | https://www.acmicpc.net/problem/20292 |   그리디, 구현    |  Gold 4  |
+| 12/8  |      근손실       | https://www.acmicpc.net/problem/18429 |     백트래킹      | Silver 3 |
+| 12/8  |    순열사이클     | https://www.acmicpc.net/problem/10451 |        DFS        | Silver 2 |
+| 12/8  | 민균이의 비밀번호 | https://www.acmicpc.net/problem/9933  |      문자열       | Bronze 1 |
+| 12/8  |       캠핑        | https://www.acmicpc.net/problem/4796  |      그리디       | Silver 5 |
+| 12/8  |       추월        | https://www.acmicpc.net/problem/2002  |      해시맵       | Silver 1 |
+| 12/8  |  가희와 프로세스  | https://www.acmicpc.net/problem/21773 | 구현, 우선순위 큐 |  Gold 5  |
+| 12/8  |    후위 표기식    | https://www.acmicpc.net/problem/1918  |    구현, 스택     |  Gold 3  |
+| 12/8  | 트리의 부모 찾기  | https://www.acmicpc.net/problem/11725 |        BFS        | Silver 2 |
+| 12/8  |      검증수       | https://www.acmicpc.net/problem/2475  |       구현        | Bronze 5 |
+| 12/8  |    팰린드롬 수    | https://www.acmicpc.net/problem/1259  |       구현        | Bronze 1 |
+| 12/9  |  안정적인 문자열  | https://www.acmicpc.net/problem/4889  |      문자열       | Silver 1 |
+| 12/9  |   괄호 끼워넣기   | https://www.acmicpc.net/problem/11899 |       스택        | Silver 4 |
+| 12/9  |    베스트셀러     | https://www.acmicpc.net/problem/1302  |      문자열       | Silver 4 |
+| 12/9  |     카드놓기      | https://www.acmicpc.net/problem/5568  |    브루트포스     | Silver 5 |
+| 12/9  | 로마 숫자 만들기  | https://www.acmicpc.net/problem/16922 |     백트래킹      | Silver 3 |
+| 12/9  | 공주님을 구해라!  | https://www.acmicpc.net/problem/17836 |        BFS        |  Gold 5  |
+| 12/10 |  카드 합체 놀이   | https://www.acmicpc.net/problem/15903 |    우선순위 큐    | Silver 2 |
+| 12/10 |   행운의 문자열   | https://www.acmicpc.net/problem/1342  |     백트래킹      | Silver 1 |
+| 12/11 |       용액        | https://www.acmicpc.net/problem/2467  |     투 포인터     |  Gold 5  |
+| 12/11 |    스타트링크     | https://www.acmicpc.net/problem/5014  |        BFS        |  Gold 5  |
+| 12/11 |       빙산        | https://www.acmicpc.net/problem/2573  |        DFS        |  Gold 5  |
 
 </details>
